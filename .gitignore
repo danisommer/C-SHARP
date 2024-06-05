@@ -1,0 +1,84 @@
+# Arquivos de backup do VS Code
+.vscode/
+
+# Pastas de saída binárias
+bin/
+obj/
+
+# Pastas de saída do Visual Studio 2019
+.vs/
+.idea/
+
+*.sln
+*.csproj
+
+# Logs
+*.log
+
+# Diretórios de teste do Visual Studio
+TestResults/
+
+# Arquivos de log do VS Code
+.vscode/*.log
+
+# Arquivos gerados pela compilação do Mono
+*.pidb
+
+# Arquivos temporários
+*.swp
+*~
+
+# Arquivos de banco de dados temporário do Mono
+*.db
+
+# Arquivos de cache do NuGet
+*.nupkg
+.nuget/
+
+# Arquivos de configuração do Mono
+mono_crash.*
+
+# Arquivos do Rider
+.idea/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Arquivos gerados pelo sistema
+*.DS_Store
+*.AppleDouble
+*.LSOverride
+
+# Arquivos do Linux
+*~
+.*.swp
+.*.swo
+*.*~
+.fuse_hidden*
+.nfs*
+
+# Arquivos do JetBrains Rider
+.idea/
+.idea_modules/
+*.iml
+*.ipr
+*.iws
+
+# Arquivos do JetBrains ReSharper
+.ReSharper*/
+*.DotSettings.user
+
+# Arquivos do sistema operacional
+Thumbs.db
+ehthumbs.db
+
+# Opções de pastas do Windows
+Desktop.ini
+
+# Miniaturas do Windows
+Thumbs.db
+ehthumbs_vista.db
+
+# Arquivos do Windows Image File Cache
+*.wim
